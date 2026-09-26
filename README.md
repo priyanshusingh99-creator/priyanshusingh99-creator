@@ -1,6 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7b5bf2&height=180&section=header&text=Priyanshu%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20%7C%20Backend%20%26%20Systems%20Engineer&descAlignY=65&descSize=18" width="100%"/>
+<svg width="100%" height="160" viewBox="0 0 900 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="50%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#9333EA" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="160" rx="16" fill="url(#headerGrad)" />
+  <text x="50%" y="70" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="38" letter-spacing="1">Priyanshu Singh</text>
+  <text x="50%" y="112" text-anchor="middle" fill="#E9D5FF" font-family="'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="18" letter-spacing="2">Full-Stack | Backend &amp; Systems Engineer</text>
+</svg>
 
 # Full-Stack | Backend & Systems
 
