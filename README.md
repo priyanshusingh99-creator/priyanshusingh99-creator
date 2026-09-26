@@ -64,13 +64,13 @@ I'm **Priyanshu Singh**, a Full-Stack and Backend Engineer. I specialize in buil
 
 ---
 
-### 🗂️ Featured & Currently Building
+### 🗂️ Currently Building & Featured Projects
 
 - 💼 **LinkedIn Clone (Ongoing):** Production-ready full-stack networking platform featuring dynamic feeds, real-time post interactions, connection requests, and role-based authentication.
-- 🐙 **GitHub Clone:** Full-stack VCS web platform with 15+ RESTful APIs and a custom CLI engine supporting 6 Git operations (`init`, `add`, `commit`, `push`, `pull`, `revert`) integrated with AWS S3.
+- 🐙 **[GitHub Clone](https://github.com/priyanshusingh99-creator/Github-clone):** Full-stack VCS web platform with 15+ RESTful APIs and a custom CLI engine supporting 6 Git operations (`init`, `add`, `commit`, `push`, `pull`, `revert`) integrated with AWS S3.
 - 📹 **VideoMeet:** Real-time video conferencing application built with React, Node.js, and Socket.IO protocol for instant multi-user synchronization.
 - 📈 **TradeSense:** Zerodha-inspired trading platform containing landing pages, analytics dashboards, and portfolio trackers using MERN and Chart.js.
-- 🤖 **AI Chatbot:** Persistent conversational agent powered by Gemini API, complete with fallback routines and MongoDB Atlas storage.
+- 🤖 **[AI Chatbot](https://github.com/priyanshusingh99-creator/ChatBot):** Persistent conversational agent powered by Gemini API, complete with fallback routines and MongoDB Atlas storage.
 
 ---
 
@@ -79,7 +79,10 @@ I'm **Priyanshu Singh**, a Full-Stack and Backend Engineer. I specialize in buil
 ### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,html,css,docker,kubernetes,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,html&perline=10" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,docker,kubernetes,aws,git,github,vscode,linux,postman,npm&perline=10" />
 </p>
 
 ---
@@ -87,6 +90,7 @@ I'm **Priyanshu Singh**, a Full-Stack and Backend Engineer. I specialize in buil
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshusingh99-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh99-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
